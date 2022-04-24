@@ -1,0 +1,7 @@
+5.
+ans.=
+	Syntex error
+
+6.
+ans.= 
+	32
